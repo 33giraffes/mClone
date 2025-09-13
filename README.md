@@ -4,6 +4,12 @@ A quick minecraft clone i created. You must have Ursina game engine installed fo
 
 A world is 15x15x15 blocks. When you first enter into the game, you will be loaded into a default world.
 
+==== Run mClone
+
+1. Put all files/folders in main directory in the same directory.
+
+2. double click mClone.bat
+
 ==== Controls
 
 Press WASD and space to move, left and right click to break blocks, middle click to select a block.
