@@ -3,6 +3,8 @@
 A quick minecraft clone i created. You must have Ursina game engine installed for it to work.
 A world is 15x15x15 blocks. When you first enter into the game, you will be loaded into a default world.
 
+If it wont run, type this command into cmd: python -m pip install ursina
+
 ==== Run mClone
 
 1. Put all files/folders in main directory in the same directory.
